@@ -1,1 +1,1 @@
-# examplo_w3s_parallax
+# exemplo_w3s_parallax
