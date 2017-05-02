@@ -59,6 +59,11 @@ body, html {
     padding:50px 80px;
     text-align: justify;
 }
+.transparente {
+    background-color:transparent;
+    font-size:25px;
+    color: #f7f7f7;
+}
 h3 {
   letter-spacing: 5px;
   text-transform: uppercase;
