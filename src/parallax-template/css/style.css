@@ -10,16 +10,16 @@ nav ul a,
 nav .brand-logo {
   color: #444;
 }
-
+nav .button-collapse {
+    margin: 0 5px;
+}
 p {
   line-height: 2rem;
 }
-
 .button-collapse {
   /*color: #26a69a;*/
   color: #444;
 }
-
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -38,20 +38,17 @@ p {
     top: 10%;
   }
 }
-
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
 }
-
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
   font-size: inherit;
 }
-
 footer.page-footer {
   margin: 0;
 }
