@@ -1,2 +1,6 @@
 .DS_Store
 /bin
+node_modules
+bower_components
+test
+tests
