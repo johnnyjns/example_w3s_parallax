@@ -2,6 +2,7 @@ body, html {
     height: 100%;
     margin: 0;
     color: #fff;
+    font: 200 16px "Lato";
 }
 .bg-nuvem-1, .bg-nuvem-2, .bg-nuvem-3 {
     position: relative;
@@ -17,7 +18,7 @@ body, html {
 }
 .bg-nuvem-2 {
     background-image: url("../images/nuvens.jpg");
-    min-height: 500px;
+    min-height: 250px;
 }
 .bg-nuvem-3 {
     background-image: url("../images/nuvens.jpg");
@@ -44,4 +45,5 @@ body, html {
     text-align:center;
     padding:50px 80px;
     text-align: justify;
+    box-shadow: 3px 3px 3px #000;
 }
